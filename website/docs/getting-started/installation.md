@@ -1,7 +1,8 @@
 ---
 sidebar_position: 2
 title: "Installation"
-description: "Install Hermes Agent on Linux, macOS, WSL2, or Android via Termux"
+description: "Install Hermes Agent on Linux, macOS, WSL2, or Android via Termux"install 
+
 ---
 
 # Installation
